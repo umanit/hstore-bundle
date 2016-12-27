@@ -1,5 +1,5 @@
 {
-    "name": "kost/hstore-bundle",
+    "name": "umanit/hstore-bundle",
     "description": "The HStoreBundle contains DBAL type hstore and registers Doctrine type hstore",
     "keywords": ["symfony2", "postgresql", "hstore"],
     "type": "symfony-bundle",
